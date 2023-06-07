@@ -1,0 +1,12 @@
+{
+    "captcha_service": "capmonster/2captcha",
+    "captcha_api_key": "",
+    "inviteCode": "eNmJHRAJM4",
+    "joinDelay": 3000,
+    "useProxies": false,
+    "boost": {
+        "enabled": true,
+        "delay": 3000,
+        "serverId": "806510109080551425"
+    }
+}
